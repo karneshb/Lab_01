@@ -1,0 +1,5 @@
+000001, Diamond, Shiny Hard jewel, 6000.0
+000002, Ruby, Red jewel, 586.95
+ stick in nutella, 5.85
+ied potato slices sprinkled with salt and pepper, 3.99
+
